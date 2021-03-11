@@ -22,6 +22,6 @@ Created by Hxdce.
 
 ## Credits & Special Thanks
 
-- **Barra**, for originally explaining to me how to change what server Sapari Community Place attempts to connect to.
+- **Barra**, for originally explaining how to change what server Sapari Community Place attempts to connect to.
 - **Tsunetake Noma**, the original creator of and project lead for Sapari Community Place.
 - **Sony Corporation**, the owners of, and copyright holders for, Community Place Browser and all its derivatives.
